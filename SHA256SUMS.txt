@@ -1,0 +1,4 @@
+b236090efc5cb90df23001c95f751cefbc0c517033a01778ac58c21d4f9114da  README.md  (2439 bytes)
+2250b0b1ff1531fa21ee4f16419b94bd9ea35d401c407cfc3aaabd16c99d2a83  addons/sourcemod/plugins/l4d2_no_cutscene.smx  (7573 bytes)
+5b306fd24909e614cc10b086ba954e70b9d7aacb2a1e2d6657363546ede31713  addons/sourcemod/scripting/l4d2_no_cutscene.sp  (11334 bytes)
+5735912186ebc564a384970c8037dea8d8d50280d3037f206fbfb276fe409eec  cfg/sourcemod/l4d2_no_cutscene.cfg  (602 bytes)
